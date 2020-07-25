@@ -1,0 +1,1 @@
+"pets app for storing data of pets and manipulate it with sqlite3 database."
