@@ -1,0 +1,3 @@
+"sms app using smsmanager "
+"
+input message text and phone no."
